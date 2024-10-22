@@ -1,0 +1,14 @@
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\bin\Debug\net8.0\mynewconsoleapp.exe
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\bin\Debug\net8.0\mynewconsoleapp.deps.json
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\bin\Debug\net8.0\mynewconsoleapp.runtimeconfig.json
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\bin\Debug\net8.0\mynewconsoleapp.dll
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\bin\Debug\net8.0\mynewconsoleapp.pdb
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.AssemblyInfoInputs.cache
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.AssemblyInfo.cs
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.csproj.CoreCompileInputs.cache
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.dll
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\refint\mynewconsoleapp.dll
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.pdb
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\mynewconsoleapp.genruntimeconfig.cache
+c:\Users\inesoraa\OneDrive - Microsoft\Documents\HelloWorld\mynewconsoleapp\obj\Debug\net8.0\ref\mynewconsoleapp.dll
